@@ -1,6 +1,6 @@
-TARGET_ID = 10230643000
-TARGET_USER = "ddiablo71"
-WEBHOOK_URL = ""
+local TARGET_ID = 10230643000
+local TARGET_USER = "ddiablo71"
+local WEBHOOK_URL = ""
 
 local TargetBrainrots = {
     ["4th Bros"] = true,
