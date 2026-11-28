@@ -152,6 +152,7 @@ local TargetBrainrots = {
     ["Tictac Sahur"] = true,
     ["Tirilikalika Tirilikalako"] = true,
     ["Tralaledon"] = true,
+    ["Tosto Dino"] = true,
     ["Tuff Toucan"] = true,
     ["Tenini Ballini"] = true,
     ["Tic Bros"] = true,
