@@ -120,6 +120,7 @@ local TargetBrainrots = {
     ["Polaroidini"] = true,
     ["Puppetmaster"] = true,
     ["Popcuru and Fizzuru"] = true,
+    ["Pum Pum Pum"] = true,
     ["Quackini Snackini"] = true,
     ["Queen Bee"] = true,
     ["Reinito Sleighito"] = true,
